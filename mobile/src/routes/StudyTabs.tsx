@@ -16,7 +16,7 @@ function StudyTabs()
                 style: {
                     elevation: 0,
                     shadowOpacity: 0,
-                    height: 64
+                    height: 55 //60
                 },
                 tabStyle: {
                     flexDirection: 'row',

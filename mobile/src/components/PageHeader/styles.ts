@@ -1,18 +1,21 @@
 import { StyleSheet } from 'react-native'
 
 const styles = StyleSheet.create({
-    container:{
+    container: {
         padding: 40,
-        backgroundColor: '#8257E5'
+        backgroundColor: '#8257e5'
     },
-
-    topBar:{
+    topBar: {
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'space-between'
     },
-
-    title:{
+    header: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between'
+    },
+    title: {
         fontFamily: 'Archivo_700Bold',
         color: '#FFF',
         fontSize: 24,
@@ -20,6 +23,6 @@ const styles = StyleSheet.create({
         maxWidth: 160,
         marginVertical: 40
     }
-});
+})
 
-export default styles;
+export default styles

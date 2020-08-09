@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 ## 💻 Projeto
 
-**Proffy** - Plataforma de estudos online onde alunos podem se conectar com professores.
+**Proffy** - Plataforma de estudos online onde alunos podem se conectar com professores. Está é a versão 1.0 (Be
 
 ## 🔖 Layout
 

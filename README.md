@@ -144,7 +144,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito por Diego Ferreira L.G.Oliveria
+Feito por Diego Ferreira L.G.Oliveira
 
 <a href="https://www.linkedin.com/in/diego-ferreira-a60a8a161/">
   <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-a60a8a161/">
